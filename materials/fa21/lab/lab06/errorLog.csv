@@ -1,0 +1,9 @@
+SyntaxError,"invalid character in identifier (<ipython-input-4-932dc37b4c12>, line 1)"
+TypeError,_append_dispatcher() missing 1 required positional argument: 'values'
+TypeError,statistic() missing 1 required positional argument: 'actual_prop'
+TypeError,statistic() missing 1 required positional argument: 'actual_prop'
+TypeError,statistic() missing 1 required positional argument: 'actual_prop'
+TypeError,_append_dispatcher() missing 1 required positional argument: 'values'
+TypeError,_append_dispatcher() missing 1 required positional argument: 'values'
+TypeError,unsupported operand type(s) for -: 'float' and 'list'
+TypeError,unsupported operand type(s) for -: 'float' and 'function'
