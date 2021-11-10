@@ -1,0 +1,8 @@
+TypeError,'<' not supported between instances of 'numpy.ndarray' and 'int'
+SyntaxError,"EOL while scanning string literal (<ipython-input-25-8d06343b87e0>, line 2)"
+SyntaxError,"invalid syntax (<ipython-input-40-f651f29b2301>, line 8)"
+AttributeError,'numpy.ndarray' object has no attribute 'append'
+SyntaxError,"cannot assign to Ellipsis (<ipython-input-47-667e701c8690>, line 6)"
+IndexError,index 3 is out of bounds for axis 0 with size 3
+IndexError,index 3 is out of bounds for axis 0 with size 3
+ValueError,Cannot take a larger sample than population when 'replace=False'
