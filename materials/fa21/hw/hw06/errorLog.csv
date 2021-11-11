@@ -1,0 +1,38 @@
+SyntaxError,"invalid syntax (<ipython-input-4-a0b013605e8a>, line 2)"
+SyntaxError,"invalid syntax (<ipython-input-6-a0b013605e8a>, line 2)"
+AttributeError,'numpy.ndarray' object has no attribute 'column'
+AttributeError,'numpy.ndarray' object has no attribute 'apply'
+AttributeError,'numpy.ndarray' object has no attribute 'apply'
+AttributeError,'numpy.ndarray' object has no attribute 'with_column'
+SyntaxError,"invalid syntax (<ipython-input-25-3f51ded88e0f>, line 2)"
+SyntaxError,"invalid syntax (<ipython-input-28-3f51ded88e0f>, line 2)"
+SyntaxError,"invalid syntax (<ipython-input-30-3f51ded88e0f>, line 2)"
+SyntaxError,"invalid syntax (<ipython-input-31-398acb36a82b>, line 3)"
+SyntaxError,"invalid syntax (<ipython-input-32-398acb36a82b>, line 3)"
+SyntaxError,"invalid syntax (<ipython-input-34-398acb36a82b>, line 3)"
+SyntaxError,"invalid syntax (<ipython-input-39-398acb36a82b>, line 3)"
+AttributeError,'numpy.ndarray' object has no attribute 'column'
+AttributeError,'numpy.ndarray' object has no attribute 'column'
+TypeError,object of type 'numpy.int64' has no len()
+TypeError,'>' not supported between instances of 'list' and 'int'
+TypeError,'>' not supported between instances of 'generator' and 'int'
+TypeError,'>' not supported between instances of 'generator' and 'int'
+SyntaxError,"invalid syntax (<ipython-input-82-77ffe9b8c35b>, line 4)"
+TypeError,'builtin_function_or_method' object is not iterable
+ValueError,"The column ""Pockets"" is not in the table. The table contains these columns: Pocket, Color, Winnings: Red"
+TypeError,unsupported operand type(s) for +: 'int' and 'str'
+NameError,name 'num_bet' is not defined
+NameError,name 'num_bet' is not defined
+SyntaxError,"invalid syntax (<ipython-input-192-66a138a97be9>, line 1)"
+AttributeError,'numpy.ndarray' object has no attribute 'sample'
+TypeError,cannot perform reduce with flexible type
+TypeError,cannot perform reduce with flexible type
+AttributeError,'numpy.ndarray' object has no attribute 'sample'
+ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+AttributeError,'numpy.ndarray' object has no attribute 'num_rows'
+AttributeError,'numpy.ndarray' object has no attribute 'num_row'
+AttributeError,'numpy.ndarray' object has no attribute 'num_rows'
+SyntaxError,"invalid syntax (<ipython-input-280-89105536fa17>, line 1)"
+AttributeError,'numpy.ndarray' object has no attribute 'sample'
+NameError,name 'species_proportions' is not defined
+NameError,name 'deck_statistics' is not defined
