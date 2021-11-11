@@ -1,0 +1,19 @@
+TypeError,_append_dispatcher() missing 1 required positional argument: 'values'
+AttributeError,'numpy.ndarray' object has no attribute 'append'
+SyntaxError,"unexpected EOF while parsing (<ipython-input-67-14767dcc0686>, line 1)"
+ValueError,The index 2 is not in the table. Only indices between 0 and 1 are valid
+SyntaxError,"unexpected EOF while parsing (<ipython-input-78-a52094c1bd05>, line 1)"
+ValueError,The index 2 is not in the table. Only indices between 0 and 1 are valid
+ValueError,The index 2 is not in the table. Only indices between 0 and 1 are valid
+ValueError,The index 2 is not in the table. Only indices between 0 and 1 are valid
+NameError,name 'group_measn' is not defined
+SyntaxError,"invalid syntax (<ipython-input-111-3279fd002605>, line 2)"
+TypeError,'float' object is not subscriptable
+NameError,name 'simulate_one_statistic' is not defined
+SyntaxError,"invalid syntax (<ipython-input-149-36b663e34099>, line 1)"
+IndentationError,"unexpected indent (<ipython-input-171-698997420c01>, line 5)"
+NameError,name 'plots' is not defined
+NameError,name 'plots' is not defined
+NameError,name 'plot' is not defined
+SyntaxError,"invalid syntax (<ipython-input-182-c5e81c40b02b>, line 5)"
+SyntaxError,"invalid syntax (<ipython-input-184-c5e81c40b02b>, line 5)"
