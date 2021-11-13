@@ -1,0 +1,7 @@
+TypeError,"ufunc 'true_divide' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''"
+IndentationError,"expected an indented block (<ipython-input-12-19223e05fa49>, line 4)"
+NameError,name 'sf_bins' is not defined
+AttributeError,'numpy.ndarray' object has no attribute 'append'
+AttributeError,'numpy.ndarray' object has no attribute 'append'
+AttributeError,'numpy.ndarray' object has no attribute 'append'
+SyntaxError,"invalid syntax (<ipython-input-112-8f6e01620a64>, line 1)"
