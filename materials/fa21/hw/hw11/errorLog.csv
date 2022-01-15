@@ -1,0 +1,14 @@
+0,NameError,name 'r' is not defined,0,,2022-01-15 22:13:17.510456
+1,NameError,name 'r' is not defined,0,,2022-01-15 22:15:23.352048
+2,NameError,name 'r' is not defined,0,,2022-01-15 22:15:51.592549
+3,NameError,name 'slopes' is not defined,0,,2022-01-15 22:24:36.936276
+4,AttributeError,'tuple' object has no attribute 'item',0,,2022-01-15 22:43:51.585361
+5,AttributeError,'list' object has no attribute 'item',0,,2022-01-15 22:45:43.914267
+6,AttributeError,'list' object has no attribute 'item',0,,2022-01-15 22:51:47.238843
+7,AttributeError,'list' object has no attribute 'item',0,,2022-01-15 22:53:21.528644
+8,AttributeError,'tuple' object has no attribute 'item',0,,2022-01-15 22:53:42.687075
+9,AttributeError,'set' object has no attribute 'item',0,,2022-01-15 22:53:48.207302
+10,AttributeError,'list' object has no attribute 'item',0,,2022-01-15 22:57:02.211284
+11,ValueError,The column 'Predictions at Egg Weight=8' contains non-numerical values. A histogram cannot be drawn for this table.,0,,2022-01-15 22:58:41.767165
+12,ValueError,"The 'color' keyword argument must have one color per dataset, but 1000 datasets and 1 colors were provided",0,,2022-01-15 23:01:57.415429
+13,ValueError,"The 'color' keyword argument must have one color per dataset, but 1000 datasets and 1 colors were provided",0,,2022-01-15 23:02:35.544902
