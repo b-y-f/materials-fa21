@@ -1,0 +1,8 @@
+0,SyntaxError,"invalid syntax (2544172188.py, line 1)",0,,2022-01-15 04:20:58.228048
+1,TypeError,scatter() missing 1 required positional argument: 'column_for_x',0,,2022-01-15 04:45:18.471376
+2,NameError,name 'tandard_unit' is not defined,0,,2022-01-15 04:51:40.569110
+3,ValueError,"label ""duration"" not in labels ('duration (standard units)', 'wait (standard units)')",0,,2022-01-15 04:52:30.296993
+4,TypeError,only integer scalar arrays can be converted to a scalar index,0,,2022-01-15 04:57:17.801276
+5,AttributeError,'ellipsis' object has no attribute 'labels',0,,2022-01-15 06:33:06.048769
+6,TypeError,slope_of() missing 1 required positional argument: 'r',0,,2022-01-15 06:53:09.531485
+7,SyntaxError,"invalid syntax (2471148334.py, line 4)",0,,2022-01-15 07:03:29.626021
