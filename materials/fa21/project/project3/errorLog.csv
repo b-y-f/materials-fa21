@@ -1,0 +1,89 @@
+0,ValueError,"label ""word"" not in labels ('Stem', 'Word')",0,,2022-01-24 10:25:55.152379
+1,ValueError,"label ""word"" not in labels ('Stem', 'Word')",0,,2022-01-24 10:26:13.651541
+2,IndexError,index 1 is out of bounds for axis 0 with size 1,0,,2022-01-24 10:26:52.177683
+3,TypeError,'str' object cannot be interpreted as an integer,0,,2022-01-24 10:30:04.396605
+4,TypeError,'str' object cannot be interpreted as an integer,0,,2022-01-24 10:31:03.242928
+5,IndexError,index 1 is out of bounds for axis 0 with size 1,0,,2022-01-24 10:31:16.054384
+6,IndexError,index 1 is out of bounds for axis 0 with size 1,0,,2022-01-24 10:31:29.420141
+7,AttributeError,Attribute (column) not found in row.,0,,2022-01-24 10:31:32.553711
+8,AttributeError,'numpy.str_' object has no attribute 'str',0,,2022-01-24 10:34:06.164362
+9,AttributeError,'numpy.str_' object has no attribute 'str',0,,2022-01-24 10:34:09.224295
+10,AttributeError,Attribute (str) not found in row.,0,,2022-01-24 10:34:46.367766
+11,AttributeError,'Table' object has no attribute 'str',0,,2022-01-24 10:34:51.130868
+12,TypeError,_sum_dispatcher() missing 1 required positional argument: 'a',0,,2022-01-24 10:37:30.448382
+13,SyntaxError,"invalid syntax (2459712428.py, line 2)",0,,2022-01-24 10:37:45.918240
+14,ValueError,"label ""count_sum"" not in labels ('Word', 'Stem sum', 'count sum')",0,,2022-01-24 10:40:52.799185
+15,ValueError,"(1, 1) is not a label or index",0,,2022-01-24 10:45:49.830329
+16,ValueError,"(0, 1) is not a label or index",0,,2022-01-24 10:45:54.462697
+17,ValueError,"(0, 0) is not a label or index",0,,2022-01-24 10:45:57.692476
+18,ValueError,incorrect number of indices for array,0,,2022-01-24 10:47:02.010709
+19,ValueError,incorrect number of indices for array,0,,2022-01-24 10:47:11.242724
+20,ValueError,incorrect number of indices for array,0,,2022-01-24 10:47:27.706173
+21,ValueError,incorrect number of indices for array,0,,2022-01-24 10:47:49.313128
+22,TypeError,'str' object cannot be interpreted as an integer,0,,2022-01-24 10:49:28.738257
+23,TypeError,'str' object cannot be interpreted as an integer,0,,2022-01-24 10:49:36.916563
+24,TypeError,'str' object cannot be interpreted as an integer,0,,2022-01-24 10:49:51.693405
+25,NameError,name 'c' is not defined,0,,2022-01-24 20:52:15.365861
+26,AssertionError,Even length sequence required,0,,2022-01-24 20:56:44.208795
+27,AssertionError,Even length sequence required,0,,2022-01-24 20:56:59.286734
+28,ValueError,"label ""stem_len"" not in labels ('Stem', 'Word', 'word_len', 'diff')",0,,2022-01-24 20:59:36.038634
+29,TypeError,row() takes 2 positional arguments but 3 were given,0,,2022-01-24 21:02:14.799334
+30,AttributeError,'numpy.ndarray' object has no attribute 'row',0,,2022-01-24 21:02:45.693337
+31,AttributeError,Attribute (column) not found in row.,0,,2022-01-24 21:02:52.802871
+32,SyntaxError,"invalid syntax (4228167505.py, line 10)",0,,2022-01-24 21:04:21.447564
+33,AttributeError,'Table' object has no attribute 'withColumn',0,,2022-01-24 21:19:57.453968
+34,NameError,name 'movie' is not defined,0,,2022-01-24 21:54:30.326254
+35,NameError,name 'movie' is not defined,0,,2022-01-24 21:54:37.711059
+36,AttributeError,'float' object has no attribute 'barh',0,,2022-01-24 21:56:54.055247
+37,ValueError,None is not a label or index,0,,2022-01-24 22:10:49.022904
+38,AttributeError,'function' object has no attribute 'item',0,,2022-01-24 22:25:24.652563
+39,TypeError,item() takes 2 positional arguments but 3 were given,0,,2022-01-24 22:32:03.192182
+40,ValueError,tuple.index(x): x not in tuple,0,,2022-01-24 22:32:21.146798
+41,ValueError,tuple.index(x): x not in tuple,0,,2022-01-24 22:32:30.044722
+42,SyntaxError,"invalid syntax (3124433990.py, line 5)",0,,2022-01-24 22:34:24.785197
+43,TypeError,unsupported operand type(s) for -: 'tuple' and 'tuple',0,,2022-01-24 22:36:11.468225
+44,TypeError,unsupported operand type(s) for -: 'tuple' and 'tuple',0,,2022-01-24 22:36:18.586562
+45,TypeError,unsupported operand type(s) for -: 'tuple' and 'tuple',0,,2022-01-24 22:36:40.878528
+46,TypeError,unsupported operand type(s) for -: 'list' and 'list',0,,2022-01-24 22:39:39.569548
+47,NameError,name 'training_movies' is not defined,0,,2022-01-24 22:53:50.560420
+48,AttributeError,'Table' object has no attribute 'apple',0,,2022-01-24 22:54:47.231331
+49,TypeError,'descending' is an invalid keyword argument for sort(),0,,2022-01-24 22:55:19.107553
+50,TypeError,'descending' is an invalid keyword argument for sort(),0,,2022-01-24 22:55:34.584211
+51,AttributeError,module 'numpy' has no attribute 'arrange',0,,2022-01-24 22:57:59.020848
+52,TypeError,group() missing 1 required positional argument: 'column_or_label',0,,2022-01-24 23:02:54.588126
+53,AssertionError,Make sure the length of test row is the same as the length of a row in train_table.,0,,2022-01-24 23:47:23.661594
+54,TypeError,'int' object is not iterable,0,,2022-01-24 23:52:13.209136
+55,NameError,name 'i' is not defined,0,,2022-01-24 23:55:53.896388
+56,ValueError,"The column ""Genre"" is not in the table. The table contains these columns: dead, kill, cop, gun, murder, oh, well, yeah, realli, love",0,,2022-01-24 23:57:37.031150
+57,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2022-01-24 23:59:18.485586
+58,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2022-01-24 23:59:31.709426
+59,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2022-01-25 00:00:34.841915
+60,AssertionError,Make sure you are passing in a row object to fast_distances.,0,,2022-01-25 00:32:50.097051
+61,AssertionError,Make sure you are passing in a row object to fast_distances.,0,,2022-01-25 00:41:51.540965
+62,AssertionError,Make sure you are passing in a row object to fast_distances.,0,,2022-01-25 00:44:50.500644
+63,AssertionError,Make sure the length of test row is the same as the length of a row in train_table.,0,,2022-01-25 00:46:51.702600
+64,AssertionError,Make sure the length of test row is the same as the length of a row in train_table.,0,,2022-01-25 00:49:44.611506
+65,SyntaxError,"unexpected EOF while parsing (3392209768.py, line 1)",0,,2022-01-25 00:51:16.539189
+66,AssertionError,Make sure you're not using all the features of the movies table.,0,,2022-01-25 01:01:23.221270
+67,AssertionError,Make sure the length of test row is the same as the length of a row in train_table.,0,,2022-01-25 01:02:24.723730
+68,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 01:03:49.782774
+69,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 01:03:57.913720
+70,AttributeError,Attribute (select) not found in row.,0,,2022-01-25 01:05:03.781104
+71,AttributeError,'numpy.ndarray' object has no attribute 'with_column',0,,2022-01-25 01:05:23.608563
+72,ValueError,invalid __array_struct__,0,,2022-01-25 01:17:46.776900
+73,ValueError,"label ""Distance"" not in labels ('dead', 'kill', 'cop', 'gun', 'murder', 'oh', 'well', 'yeah', 'realli', 'love', 'Genre')",0,,2022-01-25 01:18:32.581390
+74,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2022-01-25 01:19:38.916823
+75,AssertionError,Make sure the length of test row is the same as the length of a row in train_table.,0,,2022-01-25 01:30:00.250000
+76,TypeError,classify_feature_row() takes 1 positional argument but 10 were given,0,,2022-01-25 01:30:28.658234
+77,NameError,name 'test_my_feature' is not defined,0,,2022-01-25 01:31:10.236483
+78,SyntaxError,"cannot assign to function call (2407250167.py, line 2)",0,,2022-01-25 01:33:02.424512
+79,AttributeError,module 'numpy' has no attribute 'count_nonzone',0,,2022-01-25 01:35:20.409396
+80,AttributeError,'Table' object has no attribute 'row_num',0,,2022-01-25 01:35:47.240312
+81,ValueError,The column 'Title' contains non-numerical values. A plot cannot be drawn for this column.,0,,2022-01-25 01:55:32.489615
+82,TypeError,only integer scalar arrays can be converted to a scalar index,0,,2022-01-25 02:01:39.614264
+83,TypeError,only integer scalar arrays can be converted to a scalar index,0,,2022-01-25 02:02:40.967839
+84,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 02:03:07.462104
+85,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 02:03:42.856000
+86,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 02:03:58.152019
+87,TypeError,'numpy.float64' object is not callable,0,,2022-01-25 02:03:59.943902
+88,ValueError,shape mismatch: objects cannot be broadcast to a single shape,0,,2022-01-25 02:11:18.407532
