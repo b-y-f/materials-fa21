@@ -1,0 +1,5 @@
+0,SyntaxError,"invalid syntax (1882742262.py, line 1)",0,,2022-01-25 04:51:14.794911
+1,TypeError,values requires collect to be specified,0,,2022-01-25 04:53:42.545937
+2,TypeError,cannot perform reduce with flexible type,0,,2022-01-25 04:53:54.733223
+3,TypeError,values requires collect to be specified,0,,2022-01-25 04:54:35.311448
+4,NameError,name 'prob_cancer_given_positive' is not defined,0,,2022-01-25 04:59:41.703669
