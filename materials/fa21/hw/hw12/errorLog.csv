@@ -1,0 +1,20 @@
+0,TypeError,'Table' object is not callable,0,,2022-01-25 02:56:43.328109
+1,TypeError,column() takes 2 positional arguments but 3 were given,0,,2022-01-25 02:56:59.670244
+2,ValueError,[0 1] is not a label or index,0,,2022-01-25 02:57:34.447441
+3,ValueError,"[0, 1] is not a label or index",0,,2022-01-25 02:57:58.213476
+4,TypeError,column() takes 2 positional arguments but 3 were given,0,,2022-01-25 03:03:04.780674
+5,ValueError,['latitude' 'longitude'] is not a label or index,0,,2022-01-25 03:03:14.754635
+6,TypeError,'tuple' object is not callable,0,,2022-01-25 03:03:26.061429
+7,TypeError,<lambda>() missing 1 required positional argument: 'b',0,,2022-01-25 03:04:25.065056
+8,SyntaxError,"unmatched ')' (1896377668.py, line 1)",0,,2022-01-25 03:04:36.184735
+9,NameError,name 'b' is not defined,0,,2022-01-25 03:04:38.643974
+10,NameError,name 'a' is not defined,0,,2022-01-25 03:05:04.717615
+11,TypeError,column() missing 1 required positional argument: 'index_or_label',0,,2022-01-25 03:06:05.963900
+12,AttributeError,Attribute (select) not found in row.,0,,2022-01-25 03:31:44.379182
+13,AttributeError,Attribute (column) not found in row.,0,,2022-01-25 03:32:59.045758
+14,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-01-25 03:33:17.570516
+15,AttributeError,Attribute (select) not found in row.,0,,2022-01-25 03:34:33.002784
+16,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-01-25 03:34:40.064066
+17,TypeError,row_to_array() missing 1 required positional argument: 'features',0,,2022-01-25 03:35:08.921131
+18,AttributeError,'numpy.ndarray' object has no attribute 'apply',0,,2022-01-25 03:35:38.981956
+19,TypeError,distance() missing 1 required positional argument: 'arr2',0,,2022-01-25 03:37:00.321212
